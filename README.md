@@ -83,7 +83,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Create a new Pull Request.
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ---
 
