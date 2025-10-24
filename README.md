@@ -33,7 +33,7 @@ Email-Chat-Bot/
 
 ### 1. Clone and Install
 ```bash
-git clone https://github.com/YOUR_USERNAME/Email-Chat-Bot.git
+git clone https://github.com/selvaganesh19/Email-Chat-Bot.git
 cd Email-Chat-Bot
 npm install
 
