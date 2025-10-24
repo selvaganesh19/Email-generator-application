@@ -36,7 +36,7 @@ Welcome to **Email-generator-application**! This project is designed to help you
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Email-generator-application.git
+    git clone https://github.com/selvaganesh19/Email-generator-application.git
     cd Email-generator-application
     ```
 
