@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 .env
 *.json
 *.pickle
+=======
+node_modules
+credentials.json
+.env
+token.json
+>>>>>>> 92b627602d27865ee4f629732d15fcae75684ce6
